@@ -1,0 +1,26 @@
+/* Customização após o reset */
+body {
+    background-color: #fce4ec; /* Rosa suave */
+    font-family: "Poppins", sans-serif; /* Fonte padrão */
+    font-size: 16px;
+    color: #4e342e; /* Marrom escuro para o texto */
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin-bottom: 1rem; /* Espaçamento entre títulos */
+    color: #d81b60; /* Rosa vibrante para os títulos */
+}
+
+p {
+    margin-bottom: 1rem; /* Espaçamento entre parágrafos */
+    color: #6a1b9a; /* Roxo para os parágrafos */
+}
+
+a {
+    text-decoration: none; /* Remove o sublinhado */
+    color: #3949ab; /* Azul forte para links */
+}
+
+a:hover {
+    color: #ff4081; /* Rosa intenso ao passar o mouse */
+}
